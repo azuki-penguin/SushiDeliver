@@ -29,4 +29,4 @@ ln enchant.min.js ../
 
 ## materials
 - illustration
-  - [いらすとや](http://www.irasutoya.com/)
+  - [いらすとや](http://www.irasutoya.com/) 様
