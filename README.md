@@ -3,7 +3,9 @@
 
 ## How To Install
 - Clone the repo
-`git clone https://github.com/azuki-penguin/SushiDeliver.git`
+```
+git clone https://github.com/azuki-penguin/SushiDeliver.git
+```
 
 - move to the repo directory and clone enchant.js repo
 ```
